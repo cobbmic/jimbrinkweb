@@ -1,0 +1,124 @@
+{% extends "template.html" %}
+{% block body_content %}
+    <div id="all">
+
+
+        <!-- *** INTRO IMAGE ***
+    _________________________________________________________ -->
+        <div id="intro" class="clearfix">
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+                        <div class="carousel-caption">
+                            <h1 data-animate="fadeInDown">Lessons</h1>
+                            <h2 data-animate="slideInUp">Sermons, Devos, and Classes from Jim</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- *** INTRO IMAGE END *** -->
+        <!-- *** LESSONS *** _____ -->
+
+        <div class="section" id="articles">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12" id="lessons">
+                        <input class="search" placeholder="Search" />
+
+                        <select name="series" class="select-filter">
+                            <option selected="selected" value="">Select a Series</option>
+                            <option value="Act Like It (Acts 1-16)">Act Like It (Acts 1-16)</option>
+                            <option value="Holy Spirit">Holy Spirit</option>
+                            <option value="James">James</option>
+                            <option value="Surprised By Hope">Surprised By Hope (Heaven Series)</option>
+                            <option value="Who Do You Follow? (Acts 17-28)">Who Do You Follow? (Acts 17-28)</option>
+                        </select> 
+                        <ul class="list">
+                          {% for lesson in lessons %}
+                          <li>
+                            <h4 class="date" style="float:right;">{{lesson.date}}</h4>
+                            <h4><span class="series">{{lesson.series}}</span>  ({{lesson.lesson_type}})</h4>
+                            <div style="float:clear;"></div>
+                            <h3 style="font-size:1.5em; color:#f68026; text-transform:uppercase;" class="title">{{lesson.title}}</h3>
+                            <p></p>
+                            <p class"description">{{lesson.info}}</p>
+                            {% if lesson.url != "" %}
+                            <audio style="padding-left:25px;" controls preload="none">
+                                <source src="{{lesson.url}}" type="audio/mpeg">
+                                Your browser does not support the audio element. Download <a href="{{lesson.url}}">here</a>.
+                            </audio>
+                            {% endif %}
+                            <p>
+                            {% if lesson.manuscript != none  %}[<a href="{{lesson.manuscript}}">Manuscript</a>]{% endif %}
+                            {% if lesson.handout != none %} [<a href="{{lesson.handout}}">Handout</a>]{% endif %}
+                            {% if lesson.ppt != none %} [<a href="{{lesson.ppt}}">PPT</a>]{% endif %}
+                            </p>
+                          </li>
+			                    {% endfor %}
+			            </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#articles -->
+        {% endblock %}
+        {% block optional_js %}
+        <!-- list.js file -->
+        <script src="http://listjs.com/assets/javascripts/list.min.js"></script>
+
+        <!-- list.js script -->
+        <script type="text/javascript">
+        <!--
+            var options = {
+                valueNames: [ 'series', 'date', 'description']
+            };
+
+            var featureList = new List('lessons', options);
+           
+            $('.filter-series').on('click',function(){
+                    var $text = $(this).text();
+                    if($(this).hasClass( 'selected' )){
+                      featureList.filter();
+                      $(this).removeClass('selected');
+                      } else {
+                      featureList.filter(function(item) {
+                          return (item.values().series == $text);
+                          });
+                      $(this).addClass('selected');
+                }
+              });
+
+            // drop down selector
+            var selectFilterValues = {
+              series: '',
+            };
+
+            $('.select-filter').change(function() {
+              var selection = this.value,
+                name = $(this).attr('name');
+
+              selectFilterValues[name] = selection;
+
+              featureList.filter(function(item) {
+                var values = item.values(),
+                  matches = 0,
+                  length = 0;
+
+                $.each(selectFilterValues, function(key, val) {
+                  length++;
+
+                  if (values[key].trim() == val || val === '') {
+                    matches++;
+                  }
+                });
+
+                  return (matches === length);
+                });
+              });
+            
+            //-->
+            </script>
+
+        {% endblock %}

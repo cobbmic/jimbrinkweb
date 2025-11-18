@@ -1,0 +1,66 @@
+{% extends "template.html" %}
+{% block body_content %}
+    <div id="all">
+
+
+        <!-- *** INTRO IMAGE ***
+    _________________________________________________________ -->
+        <div id="impact" class="clearfix">
+            <div class="pic">
+                <div class="container">
+                    <div class="row">
+                        <div class="carousel-caption">
+                            <h1 data-animate="fadeInDown">Jim's Impact</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- *** INTRO IMAGE END *** -->
+        <!-- *** LESSONS *** _____ -->
+
+        <div class="section" id="articles">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12" id="lessons">
+                        <input class="search" placeholder="Search" />
+                        <button class="sort" data-sort="name">
+                            Sort by last name 
+                        </button>
+                        <button class="sort" data-sort="ranking">
+                            Sort by date
+                        </button>
+                        <ul class="list">
+                          {% for impact in impacts %}
+                          <li>
+                          <h4 class="date ranking" style="float:right;" data-ranking="{{impact.id}}">{{impact.date}}</h4>
+                            <div style="float:clear;"></div>
+                            <h3 style="font-size:1.5em; color:#f68026; text-transform:uppercase;" class="name">{{impact.last_name}}, {{impact.first_name}}</h3>
+                            <p></p>
+                            <p>{{impact.comment}}</p>
+                          </li>
+			                    {% endfor %}
+			            </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#articles -->
+        {% endblock %}
+        {% block optional_js %}
+        <!-- list.js file -->
+        <script src="http://listjs.com/assets/javascripts/list.min.js"></script>
+
+        <!-- list.js script -->
+        <script type="text/javascript">
+        <!--
+            var options = {
+valueNames: [ 'name', { attr: 'data-ranking', name: 'ranking'}]
+            };
+
+            var userList = new List('lessons', options);
+            //-->
+            </script>
+
+        {% endblock %}

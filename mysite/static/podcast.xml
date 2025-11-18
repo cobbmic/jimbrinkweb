@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+     <title>Lessons From the Brink: The Sermons and Devos of Jim Brinkerhoff</title>
+       <description>
+         <![CDATA[Jim Brinkerhoff taught at the Auburn Christian Student Center for over three decades. Those who heard him teach not only had their understanding of Christianity changed, but they had their lives transformed. Each week, we will broadcast one lesson -- sermons, Devos, and classes.]]>
+       </description>
+       <managingEditor>jimbrinkweb@gmail.com (Micah Cobb)</managingEditor>
+       <copyright>© All rights reserved</copyright>
+       <atom:link href="http://jimbrink.org/static/podcast.xml" rel="self" type="application/rss+xml"/>
+       <link>http://jimbrink.org</link>
+       <itunes:owner>
+         <itunes:name>Micah Cobb</itunes:name>
+         <itunes:email>jimbrinkweb@gmail.com</itunes:email>
+       </itunes:owner>
+       <itunes:author>Jim Brinkerhoff</itunes:author>
+       <itunes:summary>
+         <![CDATA[Jim Brinkerhoff taught at the Auburn Christian Student Center for over three decades. Those who heard him teach not only had their understanding of Christianity changed, but they had their lives transformed. Each week, we will broadcast one lesson -- sermons, Devos, and classes.]]>
+       </itunes:summary>
+       <language>en</language>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:category text="Religion &amp; Spirituality">
+           <itunes:category text="Christianity"/>
+       </itunes:category>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, Auburn University</itunes:keywords>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <image>
+           <url>http://www.jimbrink.org/img/podcast.jpg</url>
+           <link>http://jimbrink.org</link>
+           <title>Lessons From the Brink: The Sermons and Devos of Jim Brinkerhoff</title>
+       </image>
+
+       <item>
+         <title>Holy Spirit: Class 5</title>
+       <description>
+       <![CDATA[The fifth class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The fifth class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs05.mp3</guid>
+       <pubDate>Fri, 06 Oct 2017 11:01:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:57:07</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs05.mp3" type="audio/mpeg" length="10281796"/>
+     </item>
+
+       <item>
+         <title>Holy Spirit: Class 4</title>
+       <description>
+       <![CDATA[The fourth class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The fourth class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs04.mp3</guid>
+       <pubDate>Fri, 29 Sep 2017 11:01:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:38:48</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs04.mp3" type="audio/mpeg" length="6983550"/>
+     </item>
+
+       <item>
+         <title>Holy Spirit: Class 3</title>
+       <description>
+       <![CDATA[The third class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The third class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs03.mp3</guid>
+       <pubDate>Wed, 13 Sep 2017 16:00:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:41:55</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs03.mp3" type="audio/mpeg" length="7544660"/>
+     </item>
+
+       <item>
+         <title>Holy Spirit: Class 2</title>
+       <description>
+       <![CDATA[The second class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The second class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs02.mp3</guid>
+       <pubDate>Fri, 01 Sep 2017 13:17:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:49:36</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs02.mp3" type="audio/mpeg" length="8927216"/>
+     </item>
+
+       <item>
+         <title>Holy Spirit: Class 1</title>
+       <description>
+       <![CDATA[The first class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The first class in Jim's midweek class on the Holy Spirit. For many years, Jim taught this class yearly as part of the Auburn Christian Student Center's midweek class offerings.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs01.mp3</guid>
+       <pubDate>Thu, 24 Aug 2017 16:00:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:50:01</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/HolySpirit/hs01.mp3" type="audio/mpeg" length="9002057"/>
+     </item>
+
+       <item>
+         <title>Reign of God</title>
+       <description>
+       <![CDATA[The seventeeth sermon in Jim's sermon series on James. The passage is James 5:17-18. Preached at Auburn Church of Christ on June 29, 2010.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The seventeeth sermon in Jim's sermon series on James. The passage is James 5:17-18. Preached at Auburn Church of Christ on June 29, 2010.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james17.mp3</guid>
+       <pubDate>Mon, 17 Jul 2017 23:00:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:33:57</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james17.mp3" type="audio/mpeg" length="8149248"/>
+     </item>
+
+       <item>
+         <title>Anatomy of a Healing</title>
+       <description>
+       <![CDATA[The sixteenth sermon in Jim's sermon series on James. The passage is James 5:13-16. Preached at Auburn Church of Christ on June 29, 2010.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The sixteenth sermon in Jim's sermon series on James. The passage is James 5:13-16. Preached at Auburn Church of Christ on June 29, 2010.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james16.mp3</guid>
+       <pubDate>Tue, 27 Jun 2017 11:00:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:36:09</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james16.mp3" type="audio/mpeg" length="8675280"/>
+     </item>
+
+       <item>
+         <title>Patience</title>
+       <description>
+       <![CDATA[The fifteenth sermon in Jim's sermon series on James. The passage is James 5:7-12. Preached at Auburn Church of Christ on May 10, 2010.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The fifteenth sermon in Jim's sermon series on James. The passage is James 5:7-12. Preached at Auburn Church of Christ on May 10, 2010.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james15.mp3</guid>
+       <pubDate>Sun, 07 May 2017 21:00:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:33:46</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james15.mp3" type="audio/mpeg" length="8103312"/>
+     </item>
+
+       <item>
+         <title>Bling</title>
+       <description>
+       <![CDATA[The fourteenth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on Apr. 12, 2010.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The fourteenth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on Apr. 12, 2010.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james14.mp3</guid>
+       <pubDate>Wed, 03 May 2017 19:00:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:32:29</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james14.mp3" type="audio/mpeg" length="7797024"/>
+     </item>
+
+       <item>
+         <title>God @ Work</title>
+       <description>
+       <![CDATA[The thirteenth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on Feb. 14, 2010.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The thirteenth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on Feb. 14, 2010.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james13.mp3</guid>
+       <pubDate>Wed, 19 Apr 2017 11:00:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:30:28</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james13.mp3" type="audio/mpeg" length="73139616"/>
+     </item>
+
+     <item>
+         <title>Call My Name</title>
+       <description>
+       <![CDATA[The twelfth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on January 12, 2010.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The twelfth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on January 12, 2010.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james12.mp3</guid>
+       <pubDate>Mon, 27 Mar 2017 11:00:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:42:42</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james12.mp3" type="audio/mpeg" length="10249488"/>
+     </item>
+
+       <item>
+         <title>Murder in the Cathedral</title>
+       <description>
+       <![CDATA[The eleventh sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on December 14, 2009.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The eleventh sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on December 14, 2009.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james11.mp3</guid>
+       <pubDate>Mon, 06 Mar 2017 09:00:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:35:28</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james11.mp3" type="audio/mpeg" length="8511408"/>
+     </item>
+
+     <item>
+         <title>Wise</title>
+       <description>
+       <![CDATA[The tenth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on October 18, 2009.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The tenth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on October 18, 2009.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james10.mp3</guid>
+       <pubDate>Mon, 20 Feb 2017 07:10:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:28:47</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james10.mp3" type="audio/mpeg" length="6908688"/>
+     </item>
+
+       <item>
+         <title>Words</title>
+       <description>
+       <![CDATA[The ninth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on September 14, 2009.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The ninth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on September 14, 2009.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james09.mp3</guid>
+       <pubDate>Thur, 16 Feb 2017 06:41:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:34:32</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james09.mp3" type="audio/mpeg" length="8289504"/>
+     </item>
+
+       <item>
+         <title>Hollow Man</title>
+       <description>
+       <![CDATA[The eighth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on August 10, 2009.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The eighth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on August 10, 2009.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james08.mp3</guid>
+       <pubDate>Mon, 06 Feb 2017 13:41:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:33:22</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james08.mp3" type="audio/mpeg" length="8008560"/>
+     </item>
+
+       <item>
+         <title>Poor Pews</title>
+       <description>
+       <![CDATA[The seventh sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on July 14, 2009.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The seventh sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on July 14, 2009.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james07.mp3</guid>
+       <pubDate>Tues, 31 Jan 2017 13:41:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:36:56</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james07.mp3" type="audio/mpeg" length="8864640"/>
+     </item>
+
+       <item>
+         <title>Religion</title>
+       <description>
+       <![CDATA[The sixth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on June 15, 2009.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The sixth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on June 15, 2009.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james06.mp3</guid>
+       <pubDate>Tues, 17 Jan 2017 11:21:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:32:59</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james06.mp3" type="audio/mpeg" length="7917408"/>
+     </item>
+
+       <item>
+         <title>Anybody Listening?</title>
+       <description>
+       <![CDATA[The fifth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on May 3, 2009.]]>
+      </description>
+       <itunes:summary>
+       <![CDATA[The fifth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on May 3, 2009.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james05.mp3</guid>
+       <pubDate>Tues, 17 Jan 2017 11:21:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:33:09</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james05.mp3" type="audio/mpeg" length="8188238"/>
+     </item>
+
+       <item>
+         <title>Blaming God</title>
+       <description>
+       <![CDATA[The fourth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on April 6, 2009.]]>
+       </description>
+       <itunes:summary>
+       <![CDATA[The fourth sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on April 6, 2009.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james04.mp3</guid>
+       <pubDate>Sun, 08 Jan 2017 13:05:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:33:09</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james04.mp3" type="audio/mpeg" length="7957008"/>
+     </item>
+
+       <item>
+         <title>Ask God</title>
+       <description>
+       <![CDATA[The third sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on March 9, 2009.]]>
+       </description>
+       <itunes:summary>
+       <![CDATA[The third sermon in Jim's sermon series on James. Preached at Auburn Church of Christ on March 9, 2009.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james03.mp3</guid>
+       <pubDate>Sun, 01 Jan 2017 13:05:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:33:43</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james03.mp3" type="audio/mpeg" length="8095248"/>
+     </item>
+
+       <item>
+         <title>Unquenchable Joy!</title>
+       <description>
+       <![CDATA[The second sermon in Jim's sermon series on James. Preached at Auburn Church of Christ.]]>
+       </description>
+       <itunes:summary>
+       <![CDATA[The second sermon in Jim's sermon series on James. Preached at Auburn Church of Christ.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james02.mp3</guid>
+       <pubDate>Fri, 23 Dec 2016 10:16:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:34:12</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james02.mp3" type="audio/mpeg" length="8207280"/>
+     </item>
+       <item>
+         <title>Hit the Streets</title>
+       <description>
+       <![CDATA[The first sermon in Jim's sermon series on James. Preached at Auburn Church of Christ.]]>
+       </description>
+       <itunes:summary>
+       <![CDATA[The first sermon in Jim's sermon series on James. Preached at Auburn Church of Christ.]]>
+       </itunes:summary>
+       <guid isPermaLink="true">http://s3.amazonaws.com/jimbrinkweb/sermons/james01.mp3</guid>
+       <pubDate>Fri, 23 Dec 2016 10:16:00 -0000</pubDate>
+       <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="http://www.jimbrink.org/img/podcast.jpg"/>
+       <itunes:keywords>Christianity, Religion, Campus Ministry, Church of Christ, James</itunes:keywords>
+       <itunes:duration>00:34:10</itunes:duration>
+       <enclosure url="http://s3.amazonaws.com/jimbrinkweb/sermons/james01.mp3" type="audio/mpeg" length="8201520"/>
+     </item>
+  </channel>
+</rss>

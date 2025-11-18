@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Jim Brinkerhoff: His Life and Teaching</title>
+    <meta name="description" content="Jim Brinkerhoff">
+    <meta name="author" content="Micah Cobb">
+
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100%7CRoboto:400,700,300,100' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap and Font Awesome css -->
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme stylesheet -->
+    <link href="css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+
+    <!-- Custom stylesheet - for your changes -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- Signup Stylesheet -->
+    <link href="css/signup.css" rel="stylesheet">
+
+    <!-- owl carousel css -->
+
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.theme.css" rel="stylesheet">
+
+    <!-- CSS Animations -->
+    <link href="css/animate.css" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.png">
+
+    <!-- Mordernizr -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+
+    <!-- Responsivity for older IE -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+<![endif]-->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <!-- NAVBAR
+================================================== -->
+  <body>
+
+    <div class="container">
+      <div class="header">
+	<nav>
+	  <ul class="nav nav-pills pull-right">
+	    <li role="presentation"><a href="http://jimbrink.org">Home</a></li>
+	    <li role="presentation"><a href="http://jimbrink.org/lessons">View Lessons</a></li>
+	  </ul>
+	</nav>
+	<h3 class="text-muted">Add One of Jim's Lesson</h3>
+      </div>
+
+      <div class="jumbotron">
+	<h1 style="text-align:center;">Add a Lesson/Sermon</h1>
+	<form action="add_lesson" class="form-signin" method="POST">
+	  <label for="inputURL" class="sr-only">File URL</label>
+	  <input type="url" name="inputURL" id="inputURL" class="form-control" placeholder="URL" autofocus>
+	
+      <label for="inputPPT" class="sr-only">PPT URL</label>
+	  <input type="url" name="inputPPT" id="inputPPT" class="form-control" placeholder="PPT" autofocus>
+
+      <label for="inputManuscript" class="sr-only">Manuscript URL</label>
+	  <input type="url" name="inputManuscript" id="inputManuscript" class="form-control" placeholder="Manuscript" autofocus>
+
+      <label for="inputHandout" class="sr-only">Handout URL</label>
+	  <input type="url" name="inputHandout" id="inputHandout" class="form-control" placeholder="Handout" autofocus>
+
+      <label for="inputID" class="sr-only">Lesson ID</label>
+	  <input type="number" name="inputID" id="inputID" class="form-control" placeholder="Lesson ID" required autofocus>
+
+      <label for="inputType" class="sr-only">Input Type</label>
+      <input type="text" name="inputType" id="inputType" class="form-control" placeholder="Sermon or Devo" required autofocus>
+
+      <label for="inputTitle" class="sr-only">Audio Title</label>
+	  <input type="name" name="inputTitle" id="inputTitle" class="form-control" placeholder="Title" required autofocus>
+
+      <label for="inputSeries" class="sr-only">Series</label>
+	  <input type="name" name="inputSeries" id="inputSeries" class="form-control" placeholder="Series" autofocus>
+
+      <label for="inputDate" class="sr-only">Date</label>
+	  <input type="date" name="inputDate" id="inputDate" class="form-control" placeholder="Date" required autofocus>
+
+      <label for="inputInfo" class="sr-only">Description</label>
+	  <textarea name="inputInfo" id="inputInfo" class="form-control" placeholder="Description" autofocus></textarea>
+	  <!-- ADD MORE -->
+
+	  <button id="btnAddLesson" class="btn btn-lg btn-primary btn-block" type="submit">Add Lesson</button>
+	</form>
+	</div>
+        <!-- *** FOOTER ***
+    _________________________________________________________ -->
+
+        <div class="section" id="footer">
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-sm-6">
+
+                    </div>
+                    <!-- /.6 -->
+
+                    <div class="col-sm-6">
+                        <p>&copy; 2016 Micah Cobb. All rights reserved.</p>
+                    </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.section -->
+
+        <!-- *** FOOTER END *** -->
+
+
+
+    </div>
+    <!-- /#all -->
+
+    <!-- #### JAVASCRIPT FILES ### -->
+
+    <!-- js base -->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- for demo purpose -->
+    <script src="js/jquery.cookie.js"></script>
+
+    <!-- waypoints for scroll spy -->
+    <script src="js/waypoints.min.js"></script>
+
+    <!-- maps -->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+    <script src="js/gmaps.js"></script>
+
+    <!-- masonry layout -->
+    <script src="js/masonry.pkgd.min.js"></script>
+
+    <!-- owl carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+
+
+    <!-- jQuery scroll to -->
+    <script src="js/jquery.scrollTo.min.js"></script>
+
+    <!-- jQuery counter -->
+    <script src="js/jquery.counterup.min.js"></script>
+
+    <!-- jQuery parallax -->
+    <script src="js/jquery.parallax-1.1.3.js"></script>
+
+    <!-- main js file -->
+
+    <script src="js/front.js"></script>
+
+  </body>
+</html>
